@@ -1,0 +1,6 @@
+{
+  "homepage": "https://github.com/isave35861-TeamLead/viteapp.git",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
